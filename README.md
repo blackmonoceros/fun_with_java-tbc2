@@ -1,6 +1,8 @@
+___________________________________________________________________________________________________________
 The codes created represent two classes: "Product" and "Order". The "Product" class, which is a product
 in the online store and contains a field such as id, name, price and availabilityInStock. The "Order" class
-stores information about orders, including a set of products, their availability and the total availability of orders.
+stores information about orders, including a set of products, their availability and the total availability 
+of orders.
 
 The "Order" class contains methods for adding products to orders, calculating results and detailed
 
